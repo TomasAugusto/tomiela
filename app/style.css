@@ -1,0 +1,9 @@
+body { font-family: sans-serif; background:#f9f9f9; margin:0; padding:0 }
+.container { max-width:400px;margin:40px auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.1) }
+.input-area { display:flex; margin-bottom:10px }
+.input-area input { flex:1; padding:8px; font-size:16px }
+.input-area button { padding:8px 12px; font-size:16px }
+ul { list-style:none;padding:0 }
+li { display:flex; justify-content: space-between; padding:8px; border-bottom:1px solid #eee }
+li.completed .text { text-decoration:line-through;color:#888 }
+.btns button { margin-left:5px; }
