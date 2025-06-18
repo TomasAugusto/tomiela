@@ -1,6 +1,6 @@
 // 1. Inicializar Firebase (substitua com seus dados)
 const firebaseConfig = {
-  apiKey: "AIzaSyBjrx7GduwzfSQyr7DCt0oS9GJg89ro1KA",
+  apiKey: "",
   authDomain: "...",
   databaseURL: "...",
   projectId: "...",
